@@ -3,7 +3,7 @@
 # Makefile for OSHUN
 # This should work with gcc-6, open-mpi compiled with gcc-6, and HDF5 compiled with c++11 standards
 
-COMPILER = g++-7
+COMPILER = g++ #-7
 
 # GNU compilers#
 OPTFLAGS1 = -O3
